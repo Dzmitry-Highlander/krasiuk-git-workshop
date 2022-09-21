@@ -1,6 +1,6 @@
 public class Task1 {
     public static void main(String[] args) {
         System.out.println("Hello Dima!");
-        System.out.println("Hi! How're you?");
+        System.out.println("Let's do it!");
     }
 }

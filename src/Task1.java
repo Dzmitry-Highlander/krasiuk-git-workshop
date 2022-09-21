@@ -3,6 +3,5 @@ public class Task1 {
         System.out.println("Hello Dima!");
         System.out.println("NO conflict");
         System.out.println("Pull Push");
-        System.out.println("The end");
     }
 }
